@@ -1,0 +1,8 @@
+{
+    "Config": {
+        "ads": {
+            "BannerDuration": 720,
+            "InterstitialDuration": 1440
+        }
+    }
+}
