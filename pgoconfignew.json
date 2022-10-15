@@ -1,0 +1,11 @@
+{
+    "Config": {
+        "ads": {
+            "AdsTime": true,
+            "AdsStart": "07:00",
+            "AdsStop": "22:00",
+            "BannerDuration": 180,
+            "InterstitialDuration": 1440
+        }
+    }
+}
