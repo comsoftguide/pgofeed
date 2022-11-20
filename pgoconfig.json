@@ -6,6 +6,16 @@
             "AdsStop": "22:00",
             "BannerDuration": 180,
             "InterstitialDuration": 720
+        },
+        "menu":{
+            "iv100": true,
+            "ditto": true,
+            "boosted": true,
+            "rare": true,
+            "freegym": true,
+            "quest": false,
+            "friend": false,
+            "raid": false
         }
     }
 }
