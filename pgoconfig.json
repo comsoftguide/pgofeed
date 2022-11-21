@@ -13,8 +13,8 @@
             "boosted": true,
             "rare": true,
             "freegym": true,
-            "quest": false,
-            "friend": false,
+            "quest": true,
+            "friend": true,
             "raid": false
         }
     }
