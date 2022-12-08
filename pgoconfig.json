@@ -16,6 +16,16 @@
             "quest": true,
             "friend": true,
             "raid": false
+        },
+        "menu_message":{
+            "iv100": "",
+            "ditto": "Ditto's spawn are currently being reduced, so this menu will very rarely show results",
+            "boosted": "",
+            "rare": "",
+            "freegym": "",
+            "quest": "",
+            "friend": "",
+            "raid": ""
         }
     }
 }
