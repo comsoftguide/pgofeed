@@ -5,7 +5,8 @@
             "AdsStart": "07:00",
             "AdsStop": "22:00",
             "BannerDuration": 2,
-            "InterstitialDuration": 4
+            "InterstitialDuration": 4,
+            "keyword":["shopping","game","gaming","real estate","health","fitnes","tech","technology","travel","education","weight loss","gadget","phone"]
         },
         "menu":{
             "iv100": true,
