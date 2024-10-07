@@ -6,9 +6,11 @@
             "AdsStop": "22:00",
             "BannerDuration": 2,
             "InterstitialDuration": 4,
+            "RewardedDuration": 2,
             "bannerKeyword": true,
             "interstitialKeyword": true,
             "anchoredKeyword": true,
+            "rewardedKeyword": true,
             "appopenKeyword":false,
             "keyword":["shopping","game","gaming","real estate","health","fitnes","tech","technology","travel","education","weight loss","gadget","phone"]
         },
