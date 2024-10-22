@@ -4,7 +4,7 @@
             "AdsTime": true,
             "AdsStart": "07:00",
             "AdsStop": "22:00",
-            "disableRewardedAd": true,
+            "disableRewardedAd": false,
             "BannerDuration": 1,
             "InterstitialDuration": 4,
             "RewardedDuration": 2,
