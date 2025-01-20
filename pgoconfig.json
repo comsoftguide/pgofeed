@@ -8,6 +8,7 @@
             "BannerDuration": 1,
             "InterstitialDuration": 4,
             "RewardedDuration": 2,
+            "AppOpenDuration": 5,
             "bannerKeyword": true,
             "interstitialKeyword": true,
             "anchoredKeyword": true,
