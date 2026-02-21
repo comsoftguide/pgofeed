@@ -17,15 +17,25 @@
             "keyword":["shopping","game","gaming","real estate","health","fitnes","tech","technology","travel","education","weight loss","gadget","phone","cloud hosting","hosting","digital marketing"]
         },
         "menu":{
+            "form": false,
+            "top100": true,
             "iv100": true,
             "ditto": true,
+            "highcp": true,
             "boosted": true,
-            "rare": true,
+            "league": true,
+            "magi": true,
+            "laketrio": true,
+            "filter": true,
+            "station": true,
+            "rank": false,
+            "raid": true,
             "freegym": true,
+            "weather": true,
             "quest": true,
-            "friend": true,
-            "raid": false,
-            "teamrocket":true
+            "ar": true,
+            "nest": true,
+            "trainer": true
         },
         "menu_message":{
             "iv100": "",
