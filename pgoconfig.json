@@ -35,7 +35,8 @@
             "quest": true,
             "ar": true,
             "nest": true,
-            "trainer": true
+            "trainer": true,
+            "gmax": true
         },
         "menu_message":{
             "iv100": "",
