@@ -55,6 +55,7 @@
         },
         "production": true,
         "beta": false,
-        "forceUpdate": false
+        "forceUpdate": false,
+        "openTesting": true
     }
 }
