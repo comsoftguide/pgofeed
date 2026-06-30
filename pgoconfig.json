@@ -54,6 +54,7 @@
             "legendary":"144, 145, 146, 243, 244, 245, 380, 381, 480, 481, 482, 641, 642, 645"
         },
         "production": true,
-        "beta": false
+        "beta": false,
+        "forceUpdate": false
     }
 }
