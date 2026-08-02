@@ -36,7 +36,8 @@
             "ar": true,
             "nest": true,
             "trainer": true,
-            "gmax": true
+            "gmax": true,
+            "event": false
         },
         "menu_message":{
             "iv100": "",
