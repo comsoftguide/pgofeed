@@ -37,7 +37,7 @@
             "nest": true,
             "trainer": true,
             "gmax": true,
-            "event": false
+            "event": true
         },
         "menu_message":{
             "iv100": "",
