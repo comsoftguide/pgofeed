@@ -37,7 +37,12 @@
             "nest": true,
             "trainer": true,
             "gmax": true,
-            "event": true
+            "event": true,
+            "golden": true,
+            "unown": true,
+            "raidboss": true,
+            "raidhour": true,
+            "stardust": true
         },
         "menu_message":{
             "iv100": "",
