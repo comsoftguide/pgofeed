@@ -42,7 +42,8 @@
             "unown": true,
             "raidboss": true,
             "raidhour": true,
-            "stardust": true
+            "stardust": true,
+            "zorua": true
         },
         "menu_message":{
             "iv100": "",
