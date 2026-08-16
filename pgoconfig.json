@@ -43,7 +43,7 @@
             "raidboss": true,
             "raidhour": true,
             "stardust": true,
-            "zorua": true,
+            "zorua": false,
             "combee": false
         },
         "menu_message":{
