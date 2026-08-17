@@ -64,6 +64,6 @@
         "production": true,
         "beta": false,
         "forceUpdate": true,
-        "openTesting": false
+        "openTesting": true
     }
 }
