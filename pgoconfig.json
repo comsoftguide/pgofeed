@@ -44,7 +44,8 @@
             "raidhour": true,
             "stardust": true,
             "zorua": false,
-            "combee": false
+            "combee": false,
+            "size": true
         },
         "menu_message":{
             "iv100": "",
