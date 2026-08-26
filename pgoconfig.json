@@ -45,7 +45,8 @@
             "stardust": true,
             "zorua": false,
             "combee": false,
-            "size": true
+            "size": true,
+            "regional": true
         },
         "menu_message":{
             "iv100": "",
