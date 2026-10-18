@@ -43,8 +43,8 @@
             "raidboss": true,
             "raidhour": true,
             "stardust": true,
-            "zorua": false,
-            "combee": false,
+            "zorua": true,
+            "combee": true,
             "size": true,
             "regional": true
         },
