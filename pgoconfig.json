@@ -46,7 +46,8 @@
             "zorua": true,
             "combee": true,
             "size": true,
-            "regional": true
+            "regional": true,
+            "cp2000": true
         },
         "menu_message":{
             "iv100": "",
