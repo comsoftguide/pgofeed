@@ -48,8 +48,8 @@
             "size": true,
             "regional": true,
             "cp2000": true,
-            "cp3000": true,
-            "cp3500": true
+            "cp3000": false,
+            "cp3500": false
         },
         "menu_message":{
             "iv100": "",
